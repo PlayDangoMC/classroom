@@ -19,6 +19,6 @@ A fun world.
 
 ---
 
-## v1.0.0
+## v1 .0 .0
 
 Finished the world with no accessories.
