@@ -5,7 +5,6 @@ parent: Worlds
 ---
 
 # Roller Coaster
-{: .no_toc }
 
 A fun world.
 {: .fs-6 .fw-300 }
