@@ -2,9 +2,11 @@
 layout: default
 title: Roller Coaster
 parent: Worlds
+nav_order: 1
 ---
 
 # Roller Coaster
+{: .no_toc }
 
 A fun world.
 {: .fs-6 .fw-300 }
