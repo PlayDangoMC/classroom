@@ -24,8 +24,6 @@ permalink: /
                         <img src="https://dangomc.ga/favicon.ico" /><br />
                         <h1 style="color:black">DangoMC</h1>
                         <h3 id="changeText" style="color:black">There Is An Error In The Site Code.</h3><br />
-                        <h3 style="color:black">Java (PC) IP: <h3 class="code">java.dangomc.ga:56561</h3></h3>
-                        <h3 style="color:black">Bedrock (Mobile, Console) IP: <h3 class="code">bedrock.dangomc.ga:28353</h3></h3><br />
                         <a href="https://discord.gg/hNRJsPebza">
                             <button class="btn btn-primary btn-round">
                                 <i class="material-icons">
