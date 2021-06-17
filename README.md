@@ -4,7 +4,7 @@ Distributed exclusively by <a href="https://fnageer.ml/"><img src="https://fnage
 <p align="center">
     <img align="center" src="title-white.png" />
     <!--<h1 align="center">Just the Docs</h1>-->
-    <p align="center">A Community Minecraft server for Bedrock and Java.</p>
+    <p align="center">Learn and Teach Minecraft with free Guides and Downloads from DangoMC - a Community Powered Minecraft server for Bedrock and Java.</p>
     <p align="center"><strong><a href="https://classroom.dangomc.ga">Get Started!</a></strong></p>
     <br><br><br>
 </p>

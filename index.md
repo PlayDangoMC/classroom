@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Learn and Teach Minecraft with free Guides and Downloads from DangoMC - a Community Powered Minecraft server for Bedrock and Java."
 permalink: /
 ---
 
@@ -23,7 +23,7 @@ permalink: /
                     <div class="brand">
                         <img src="title.png" /><br />
                         <!--<h1 style="color:black">DangoMC Classroom</h1>-->
-                        <h3 style="color:black">A Community Minecraft server for Bedrock and Java.</h3><br />
+                        <h3 style="color:black">Learn and Teach Minecraft with free Guides and Downloads from DangoMC - a Community Powered Minecraft server for Bedrock and Java.</h3><br />
                         <a href="https://discord.gg/hNRJsPebza">
                             <button class="btn btn-primary btn-round">
                                 <i class="material-icons">

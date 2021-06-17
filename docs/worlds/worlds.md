@@ -9,5 +9,5 @@ permalink: docs/worlds
 # Worlds
 {: .no_toc }
 
-Template worlds from DangoMClassroom provide awesome lessons for teachers.
+Template worlds from DangoMC Classroom provide awesome lessons for teachers.
 {: .fs-6 .fw-300 }
