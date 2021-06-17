@@ -1,5 +1,5 @@
 ---
-layour: default
+layout: default
 customjs:
  - http://classroom.dangomc.ga/change.js
 ---
