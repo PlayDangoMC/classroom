@@ -23,7 +23,9 @@ permalink: /
                     <div class="brand">
                         <img src="https://dangomc.ga/favicon.ico" /><br />
                         <h1 style="color:black">DangoMC</h1>
-                        <h3 id="changeText" style="color:black">Minecraft Server for Bedrock (Mobile, Console)</h3><br />
+                        <h3 id="changeText" style="color:black">There Is An Error In The Site Code.</h3><br />
+                        <h3 style="color:black">Java (PC) IP: `java.dangomc.ga:56561`</h3><br />
+                        <h3 style="color:black">Bedrock (Mobile, Console) IP: `bedrock.dangomc.ga:28353`</h3><br />
                         <a href="https://discord.gg/hNRJsPebza">
                             <button class="btn btn-primary btn-round">
                                 <i class="material-icons">
@@ -71,7 +73,7 @@ permalink: /
     </script>
     <script>
         var text = ["Survival", "Survival", "Survival", "Survival", "Survival", "Survival", "Survival", "Survival", "Survival", "Survival", "Surviva", "Surviv", "Survi", "Surv", "Sur", "Su", "S", " ", "P", "Po", "Poc", "Pock", "Pocke", "Pocket ", "Pocket E", "Pocket Ed", "Pocket Edi", "Pocket Edit", "Pocket Editi", "Pocket Editio", "Pocket Edition", "Pocket Edition", "Pocket Edition", "Pocket Edition", "Pocket Edition", "Pocket Edition", "Pocket Edition", "Pocket Edition", "Pocket Edition", "Pocket Edition", "Pocket Editio", "Pocket Editi", "Pocket Edit", "Pocket Edi", "Pocket Ed", "Pocket E", "Pocket ", "Pocket", "Pocke", "Pock", "Poc", "Po", "P", " ", "P", "PV", "PVP", "PVP", "PVP", "PVP", "PVP", "PVP", "PVP", "PVP", "PVP", "PVP", "PV", "P", " ", "R", "Ra", "Rai", "Raid", "Raidi", "Raidin", "Raiding", "Raiding", "Raiding", "Raiding", "Raiding", "Raiding", "Raiding", "Raiding", "Raiding", "Raiding", "Raidin", "Raidi", "Raid", "Rai", "Ra", "R", " ", "P", "PV", "PVE", "PVE", "PVE", "PVE", "PVE", "PVE", "PVE", "PVE", "PVE", "PVE", "PV", "P", " ", "J", "Ja", "Jav", "Java", "Jav", "Ja", "J", " ", "B", "Be", "Bed", "Bedr", "Bedro", "Bedroc", "Bedrock", "Bedrock", "Bedrock", "Bedrock", "Bedrock", "Bedrock", "Bedrock", "Bedrock", "Bedrock", "Bedrock", "Bedroc", "Bedro", "Bedr", "Bed", "Be", "B"];
-        var counter = 0;"
+        var counter = 0;
         var elem = document.getElementById("changeText");
         setInterval(change, 100);
         function change() {
