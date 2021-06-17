@@ -22,8 +22,8 @@ permalink: /
                 <div class="col-md-8 ml-auto mr-auto">
                     <div class="brand">
                         <img src="https://dangomc.ga/favicon.ico" /><br />
-                        <h1 style="black">DangoMC</h1>
-                        <h3 id="changeText" style="black">Minecraft Server for Bedrock (Mobile, Console)</h3><br />
+                        <h1 style="color:black">DangoMC</h1>
+                        <h3 id="changeText" style="color:black">Minecraft Server for Bedrock (Mobile, Console)</h3><br />
                         <a href="https://discord.gg/hNRJsPebza">
                             <button class="btn btn-primary btn-round">
                                 <i class="material-icons">
