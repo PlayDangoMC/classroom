@@ -22,7 +22,7 @@ url: "https://classroom.dangomc.ga" # the base hostname & protocol for your site
 logo: "title.png"
 
 permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/", "docs/ui-components/", "docs/utilities/", "docs/configuration.md", "docs/customization.md", "docs/index-test.md", "docs/navigation-structure.md", "docs/search.md"
 , "docs/tests/"
 ]
 
