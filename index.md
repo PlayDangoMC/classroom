@@ -21,9 +21,9 @@ permalink: /
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto">
                     <div class="brand">
-                        <img src="https://dangomc.ga/favicon.ico" /><br />
-                        <h1 style="color:black">DangoMC</h1>
-                        <h3 id="changeText" style="color:black">There Is An Error In The Site Code.</h3><br />
+                        <img src="title.png" /><br />
+                        <!--<h1 style="color:black">DangoMC Classroom</h1>-->
+                        <h3 style="color:black">A Community Minecraft server for Bedrock and Java.</h3><br />
                         <a href="https://discord.gg/hNRJsPebza">
                             <button class="btn btn-primary btn-round">
                                 <i class="material-icons">
