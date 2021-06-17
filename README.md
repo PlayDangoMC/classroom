@@ -1,6 +1,5 @@
 <p align="right">
-    <p>Distributed exclusively by fnageer.ml.</p>
-</p>
+Distributed exclusively by <a href="https://fnageer.ml/"><img src="https://fnageer.ml/favicon.ico" height="20px" /> fnageer.ml.</a></p>
 <br><br>
 <p align="center">
     <img align="center" src="title-white.png" />
@@ -9,7 +8,8 @@
     <p align="center"><strong><a href="https://community.dangomc.ga">Get Started!</a></strong></p>
     <br><br><br>
 </p>
-![Oh no! Looks like there's an error in the code!](https://www.teahub.io/photos/full/116-1162250_allpaper-minecraft-data-src-best-minecraft-wallpaper-minecraft.jpg)
+
+![image](https://user-images.githubusercontent.com/84286255/122435241-d6f59f80-cf65-11eb-9492-9163dcde0bb3.png)
 
 ## Deploy to Community Server
 
